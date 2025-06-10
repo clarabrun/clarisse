@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flash Cards</title>
+</head>
+<body>
+    <main>
+        <article class="flashcard">
+            <div class="card-container">
+                <h2 class="card-title">Programação</h2>
+                <div class="question-content">
+                    <p>O que é JavaScript</p>
+                </div>
+                <div class="answer-content">
+                    <p>O Javascript é uma linguagem de programação</p>
+                </div>
+            </div>
+        </article>
+    </main>
+    <footer>
+        <p>Projeto desenvolvido por Clara - sem fins lucrativos</p>
+    </footer>
+</body>
+</html>
